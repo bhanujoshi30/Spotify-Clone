@@ -2,4 +2,4 @@
 
 App architecture:
 
-![image](https://github.com/bhanujoshi30/Spotify-Clone/assets/120588983/9c3ff23c-0dec-434c-9a66-bae1b8a9ffcd)
+![image](https://github.com/bhanujoshi30/Spotify-Clone/assets/120588983/0483b77c-d09d-4f69-8ec0-ced6682e1b1f)
